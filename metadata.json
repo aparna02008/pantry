@@ -1,0 +1,10 @@
+{
+  "name": "PantryChef",
+  "description": "Scan fridge photos to detect items and formulate waste-free meals with AI-powered recipes.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
